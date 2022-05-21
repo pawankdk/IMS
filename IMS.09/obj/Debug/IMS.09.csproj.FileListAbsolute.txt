@@ -1,0 +1,53 @@
+E:\Programming\IMS\IMS.09\IMS.09\bin\Debug\IMS.09.exe.config
+E:\Programming\IMS\IMS.09\IMS.09\bin\Debug\IMS.09.exe
+E:\Programming\IMS\IMS.09\IMS.09\bin\Debug\IMS.09.pdb
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.csprojAssemblyReference.cache
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Properties.Resources.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Unit.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.csproj.GenerateResource.cache
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.csproj.CoreCompileInputs.cache
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.exe
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.pdb
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Category.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.MainForm.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Product.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Customer_Supplier.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.PurchaseSale.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Register.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.ChangePassword.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Login.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Purchase_Report.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.MainFormUser.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.SaleReport.resources
+E:\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.StockReport.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Category.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.ChangePassword.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Customer_Supplier.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Login.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.MainForm.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.MainFormUser.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Product.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Purchase_Report.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.PurchaseSale.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Register.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.SaleReport.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.StockReport.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS._09.Unit.resources
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.csproj.GenerateResource.cache
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.csprojAssemblyReference.cache
+E:\1st sem\Programming\IMS\IMS.09\IMS.09\obj\Debug\IMS.09.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS.09.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Category.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.ChangePassword.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Customer_Supplier.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Login.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.MainForm.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.MainFormUser.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Product.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Purchase_Report.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.PurchaseSale.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Register.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.SaleReport.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.StockReport.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS._09.Unit.resources
+C:\Users\hp\OneDrive\Desktop\pROJECT final\Inventory-Management-System\IMS.09\obj\Debug\IMS.09.csproj.GenerateResource.cache
